@@ -1,0 +1,30 @@
+.content-left h2 {
+  color: red;
+}
+.content-left h1 {
+  font-size: 67px;
+}
+.content-left p {
+  font-size: 19px;
+}
+
+.content-right img {
+  margin-top: 20px;
+  margin-left: 215px;
+  box-shadow: 5px 10px 18px red;
+}
+.row1 {
+  margin-top: 40px;
+  display: flexbox;
+  background-color: rgb(247, 249, 253);
+}
+.home-article-content {
+  flex-direction: column;
+}
+.home-article-content h2 {
+  color: red;
+}
+
+.home-article-content div {
+  font-size: 20px;
+}

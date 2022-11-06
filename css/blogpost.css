@@ -1,0 +1,68 @@
+.post-img {
+  height: 404px;
+  overflow: hidden;
+  margin-top: 30px;
+}
+.post-img img {
+  width: 80%;
+  margin-left: 10%;
+  opacity: 0.9;
+  height: 400px;
+}
+.blog-post-content {
+  background-color: rgb(247, 249, 253);
+}
+
+.blog-post-content h1 {
+  margin-top: 10px;
+  text-align: center;
+  font-family: var(--font1);
+}
+.blog-post-content h1 span {
+  color: red;
+}
+.blog-post-content p {
+  text-align: center;
+  font-size: 18px;
+  font-family: var(--font1);
+  margin-bottom: 30px;
+}
+
+.row {
+  display: flex;
+}
+.more-article {
+  flex-direction: column;
+}
+
+.blogpost-author {
+  display: flex;
+  justify-content: space-between;
+}
+.author-info {
+  margin: 12px 0;
+  /* text-align: center; */
+  font-weight: bolder;
+}
+.author-info span div {
+  color: red;
+}
+
+.author-info div {
+  padding: 2px 12px;
+  font-family: var(--font1);
+}
+svg {
+  cursor: pointer;
+  height: 19px;
+  margin: 25px 0px;
+}
+
+.icons8-Facebook-Filled {
+  cursor: pointer;
+  height: 19px;
+  margin: 25px 0px;
+}
+.social {
+  padding: 0 10px;
+}

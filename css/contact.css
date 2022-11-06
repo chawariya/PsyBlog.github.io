@@ -1,0 +1,13 @@
+.contact-content {
+  margin-top: 22px;
+  padding: 9px;
+  position: relative;
+  background-color: rgb(247, 249, 253);
+}
+
+.contact-content h1 span {
+  color: red;
+}
+
+.contact-form {
+}
